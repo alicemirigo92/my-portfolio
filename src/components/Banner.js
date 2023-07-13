@@ -60,14 +60,8 @@ export function Banner() {
                     </span>
                   </h1>
                   <p>
-                    As a software developer, I am skilled in a variety of programming
-                    languages and frameworks.
-                    I am passionate about creating clean, efficient,
-                    and scalable code that helps solve real-world problems.
-                    I enjoy working collaboratively with other developers,
-                    designers, and stakeholders to deliver high-quality software products.
+                    As a software developer, I possess proficiency in various programming languages and frameworks. My expertise lies in crafting clean, efficient, and scalable code that effectively addresses real-world challenges. I thrive on collaborative work environments, where I collaborate with fellow developers, designers, and stakeholders to deliver top-notch software solutions of exceptional quality.
                   </p>
-
                   <div>
                     <button className="vd" type="button" aria-label="Contact Me">
                       Contact Me

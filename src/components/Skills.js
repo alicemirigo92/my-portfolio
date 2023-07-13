@@ -34,7 +34,7 @@ export function Skills() {
           <Col>
             <div className="skill-box">
               <h2>Skills</h2>
-              <p>The expert in anything was once a beginner</p>
+              <p>Skills are the building blocks that empower individuals to tackle challenges, drive innovation, and achieve remarkable results.</p>
               <Carousel responsive={responsive} infinite className="skill-slider">
                 <div className="item">
                   <img src={meter1} alt="Img" />
