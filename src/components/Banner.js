@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import TrackVisibility from 'react-on-screen';
 import { Container, Row, Col } from 'react-bootstrap';
 import { ArrowRightCircle } from 'react-bootstrap-icons';
-import headerImg from '../assests/images/header-img.svg';
+import headerImg from '../assests/images/globe.jpg';
 import 'animate.css';
 
 export function Banner() {
