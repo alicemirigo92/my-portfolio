@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import navIcon1 from '../assests/images/nav-icon1.svg';
 import navIcon2 from '../assests/images/github.svg';
-import navIcon3 from '../assests/images/medium (1).svg';
+import navIcon3 from '../assests/images/download (1).png';
 
 export function Footer() {
   return (
@@ -17,8 +17,8 @@ export function Footer() {
               <a rel="noreferrer" target="_blank" href="https://github.com/alicemirigo92">
                 <img src={navIcon2} alt="GitHub" />
               </a>
-              <a rel="noreferrer" target="_blank" href="https://medium.com/@alicemirigo92">
-                <img src={navIcon3} alt="Medium" className="Medium" />
+              <a rel="noreferrer" target="_blank" href="https://wellfound.com/u/alice-gathoni-mirigo">
+                <img src={navIcon3} alt="AngelList" className="Medium" />
               </a>
             </div>
             <p className="ml-3 mb-0">Copyright 2022. All Rights Reserved</p>

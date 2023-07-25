@@ -6,7 +6,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import logo from '../assests/images/noni 3.jpg';
 import navIcon1 from '../assests/images/nav-icon1.svg';
 import navIcon2 from '../assests/images/github.svg';
-import navIcon3 from '../assests/images/medium (1).svg';
+import navIcon3 from '../assests/images/download (1).png';
 
 export function NavBar() {
   const [activeLink, setActiveLink] = useState('home');
@@ -50,7 +50,7 @@ export function NavBar() {
               <div className="social-icon">
                 <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/alice-mirigo/"><img src={navIcon1} alt="LinkedIn" /></a>
                 <a rel="noreferrer" target="_blank" href="https://github.com/alicemirigo92"><img src={navIcon2} alt="Github" /></a>
-                <a rel="noreferrer" target="_blank" href="https://medium.com/@alicemirigo92"><img src={navIcon3} alt="Medium" className="git" /></a>
+                <a rel="noreferrer" target="_blank" href="https://wellfound.com/u/alice-gathoni-mirigo"><img src={navIcon3} alt="Medium" className="git" /></a>
               </div>
               <HashLink to="#connect">
                 <button className="vd"><span>Let’s Connect</span></button>
