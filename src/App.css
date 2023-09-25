@@ -126,7 +126,7 @@ nav.navbar .navbar-nav .nav-link.navbar-link {
   color: #fff !important;
   letter-spacing: 0.8px;
   padding: 0 25px;
-  font-size: 18px;
+  font-size: 16px;
   opacity: 0.75;
 }
 
@@ -189,7 +189,7 @@ span.navbar-text {
   border: 1px solid #fff;
   padding: 18px 34px;
   font-size: 18px;
-  margin-left: 18px;
+  margin-left: 17px;
   position: relative;
   background-color: transparent;
   transition: 0.3s ease-in-out;
