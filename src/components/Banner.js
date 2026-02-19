@@ -54,7 +54,7 @@ export function Banner() {
                 <div className={isVisible ? 'animate__animated animate__fadeIn' : ''}>
                   <span className="tagline">Welcome to my Portfolio</span>
                   <h1>
-                    {"Hello! I'm Gathoni."}{' '}
+                    {"Hello! I'm Alice Mirigo."}{''}
                     <span className="txt-rotate" data-period="1000" data-rotate='["A Software Developer", "JavaScript/React.js Lover", "And A Web Designer"]'>
                       <span className="wrap">{text}</span>
                     </span>
